@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "duck build",
+    "watch": "duck build --watch",
+    "proof": "duck build --proof"
+  },
+  "private": true,
+  "devDependencies": {
+    "duck-cli": "^1.4.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.6",
+    "@emotion/styled": "^10.0.6"
+  }
+}

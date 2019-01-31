@@ -1,0 +1,11 @@
+deck:
+  # explode: qty
+  data: https://docs.google.com/spreadsheets/d/1EtzeqFWRmTdoo2Ng1oYFUUCnG3SmVV_dRNABGxuwjdQ/export?format=csv&gid=33661268
+  width: 825
+  height: 525
+  pdf:
+    layout: letter
+    trim_lines: true
+    bleed: 0
+  format:
+    - png
